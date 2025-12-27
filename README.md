@@ -4,7 +4,7 @@
 수업 시간에 배운 이론과 실습, 그리고 스스로 복습하며 작성한 코드들이 포함되어 있습니다.
 
 ## 🛠️ Tech Stack
-<img src="https://img.shields.io/badge/Data Structure-C++-blue?style=flat-square&logo=c%2B%2B"/> <img src="https://img.shields.io/badge/Java-OpenJDK-red?style=flat-square&logo=openjdk"/> <img src="https://img.shields.io/badge/Python-3.x-yellow?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/Editor-VS Code-blueviolet?style=flat-square&logo=visual-studio-code"/>
+<img src="https://img.shields.io/badge/Data Structure-C-blue?style=flat-square&logo=c"/><img src="https://img.shields.io/badge/Java-OpenJDK-red?style=flat-square&logo=openjdk"/> <img src="https://img.shields.io/badge/Python-3.x-yellow?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/Editor-VS Code-blueviolet?style=flat-square&logo=visual-studio-code"/>
 
 ## 📂 Directory Structure
 
